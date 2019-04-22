@@ -6,11 +6,11 @@ import {
   View
 } from 'react-native'
 
-const backgroundColor = 'rgba(255,255,255,0.25)'
+const backgroundColor = 'rgba(255,255,255,0)'
 
 const styles = StyleSheet.create({
   outerBar: {
-    flex: 1,
+    flex: 0,
     alignItems: 'flex-end',
     flexDirection: 'row'
   },
